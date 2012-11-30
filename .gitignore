@@ -1,0 +1,11 @@
+ant.properties
+bin
+build.xml
+gen
+local.properties
+Makefile
+obj
+proguard.cfg
+project.properties
+Session.vim
+tags
